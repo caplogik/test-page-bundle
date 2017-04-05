@@ -1,0 +1,3 @@
+test_page:
+    resource: "@TestPageBundle/Controller/"
+    type:     annotation
